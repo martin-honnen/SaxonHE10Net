@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net481;net6.0;net7.0</TargetFrameworks>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SaxonHE10Java\SaxonHE10Java.msbuildproj"/>
+    <ProjectReference Include="..\SaxonHE10Net\SaxonHE10Net.csproj"/>
+  </ItemGroup>
+
+</Project>
