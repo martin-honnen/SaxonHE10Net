@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Transform": {
+      "commandName": "Project",
+      "commandLineArgs": " -t -it -xsl:C:\\Users\\marti\\OneDrive\\Documents\\xslt\\processorTestHTML5Xslt3InitialTempl.xsl"
+    },
+    "WSL": {
+      "commandName": "WSL",
+      "distributionName": "Ubuntu-22.04",
+      "commandLineArgs": " -t -it -xsl:/mnt/c/Users/marti/OneDrive/Documents/xslt/processorTestHTML5Xslt3InitialTempl.xsl"
+    }
+  }
+}

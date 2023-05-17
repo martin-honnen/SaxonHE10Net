@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Query": {
+      "commandName": "Project",
+      "commandLineArgs": "-t -qs:\"current-dateTime()\""
+    }
+  }
+}
