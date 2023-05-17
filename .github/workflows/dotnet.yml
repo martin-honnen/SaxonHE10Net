@@ -29,4 +29,4 @@ jobs:
       run: dotnet restore
       
     - name: Build
-      run: dotnet build --configuration Release --platform "Any CPU" --no-restore
+      run: dotnet build --configuration Release --framework net6.0 --no-restore
