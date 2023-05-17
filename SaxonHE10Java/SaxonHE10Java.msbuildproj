@@ -1,7 +1,8 @@
 <Project Sdk="IKVM.NET.Sdk/8.5.0">
     <PropertyGroup>
         <TargetFrameworks>net461;netcoreapp3.1</TargetFrameworks>
-        <Platforms>AnyCPU;ARM64</Platforms>
+        <!--<RuntimeIdentifiers>win-x64;win-arm64;linux-x64;linux-arm64</RuntimeIdentifiers>-->
+        <!--<Platforms>AnyCPU;ARM64</Platforms>-->
     </PropertyGroup>
 
 	<ItemGroup>
