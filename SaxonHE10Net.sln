@@ -9,9 +9,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaxonHE10Java", "SaxonHE10J
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Transform", "Transform\Transform.csproj", "{6DAE6EEE-575C-4BF8-953A-8B9400EDEC89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Query", "Query\Query.csproj", "{80DC9776-0A6D-4EB0-BC2A-C77E283F2E82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Query", "Query\Query.csproj", "{80DC9776-0A6D-4EB0-BC2A-C77E283F2E82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gizmo", "Gizmo\Gizmo.csproj", "{5437D326-460E-4914-B8E0-32ECE3AD4FB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gizmo", "Gizmo\Gizmo.csproj", "{5437D326-460E-4914-B8E0-32ECE3AD4FB9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59B1B4B5-ED1E-4849-98A3-24F75A60831D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
