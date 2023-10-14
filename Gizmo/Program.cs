@@ -1,5 +1,4 @@
-﻿using com.sun.xml.@internal.rngom.parse.host;
-using net.sf.saxon;
+﻿using net.sf.saxon;
 
 namespace Saxon.Cmd
 {
