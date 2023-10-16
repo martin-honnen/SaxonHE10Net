@@ -1,5 +1,4 @@
-<Project Sdk="IKVM.NET.Sdk/8.7.0-pre.1">
-  <Target Name="ResolveIkvmRuntimeAssembly" />
+<Project Sdk="IKVM.NET.Sdk/8.7.0-pre.2">
   
   <PropertyGroup>
         <TargetFrameworks>net472;net6.0</TargetFrameworks>
