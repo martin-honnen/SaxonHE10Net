@@ -1,4 +1,5 @@
-<Project Sdk="IKVM.NET.Sdk/8.7.0-pre.1">
+<Project Sdk="IKVM.NET.Sdk/8.7.0-pre.3">
+
     <PropertyGroup>
         <TargetFrameworks>net472;net6.0</TargetFrameworks>
         <!--<RuntimeIdentifiers>win-x64;win-arm64;linux-x64;linux-arm64</RuntimeIdentifiers>-->
